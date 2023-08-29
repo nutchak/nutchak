@@ -1,4 +1,4 @@
-### Hello, Is it me you're looking for? 👀
+### I'm not the cat in the picture.
 
 <!--
 **nutchak/nutchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
